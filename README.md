@@ -17,7 +17,6 @@ Download the files and run using command "node server.js" in CLI:
   * Add departments, roles, employees
   * View departments, roles, employees
   * Update employee roles
-  * View the total utilized budget of a department -- ie the combined salaries of all employees in that department
 
 ## Technologies 
 * MySQL - Database used to store employee information. 
