@@ -25,6 +25,7 @@ Download the files and run using command "node server.js" in CLI:
   * View the total utilized budget of a department -- ie the combined salaries of all employees in that department
 
 ## Technologies 
-* MySQL
-* Express.js -
-* Node.js
+* MySQL - Database used to store employee information. 
+* Express.js
+* Node.js - Javascript runtime used to run application.
+* Inquirer.js - Node module used for taking in user input and outputting answers in to database.
