@@ -1,6 +1,6 @@
 # Employee Tracker
 
-## A simple CLI application in which an employer can view/add/manage employees at their business. 
+A simple CLI application in which an employer can view/add/manage employees at their business. 
 
 ![Screen Shot 2020-10-19 at 8 07 33 PM](https://user-images.githubusercontent.com/66890142/96535655-23f26c00-1247-11eb-876d-3b431eed8665.png)
 
