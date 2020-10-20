@@ -1,0 +1,25 @@
+{
+  "name": "employee_tracker_mysql",
+  "version": "1.0.0",
+  "description": "A CLI program used to manage a database of employees.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianpraseuth/Employee_Tracker_MySQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianpraseuth/Employee_Tracker_MySQL/issues"
+  },
+  "homepage": "https://github.com/brianpraseuth/Employee_Tracker_MySQL#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
