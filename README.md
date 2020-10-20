@@ -13,15 +13,10 @@ Download the files and run using command "node server.js" in CLI:
 
 
 ## Functionality
-
-* The command-line application should allow users to:
-
+* The command-line application should allows users to:
   * Add departments, roles, employees
-
   * View departments, roles, employees
-
   * Update employee roles
-
   * View the total utilized budget of a department -- ie the combined salaries of all employees in that department
 
 ## Technologies 
