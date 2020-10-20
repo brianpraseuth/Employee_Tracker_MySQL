@@ -24,3 +24,7 @@ Download the files and run using command "node server.js" in CLI:
 
   * View the total utilized budget of a department -- ie the combined salaries of all employees in that department
 
+## Technologies 
+* MySQL
+* Express.js -
+* Node.js
