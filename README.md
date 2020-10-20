@@ -1,6 +1,5 @@
 # Employee Tracker
 
-![Screen Shot 2020-10-01 at 5 55 12 PM](https://user-images.githubusercontent.com/66890142/96535478-c2ca9880-1246-11eb-9ecc-dc9b1a9a7cd0.png)
 
 Video Link: https://drive.google.com/file/d/1E2EmBmOty9Djbs5gKY-oUcFErMj7rdGr/view
 
